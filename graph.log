@@ -1,0 +1,16 @@
+* 20f264d agregando un parrafo
+*   0ad48c6 resolviendo problemas
+|\  
+| * a7d154b agregando js al html
+* | 7e95d49 agregando css en html
+* |   58dec38 Merge branch 'ruta_js'
+|\ \  
+| * | ef9ea9a creando js
+* | | 5317dde creando archivo css
+| |/  
+|/|   
+* | d953beb creando archivo html
+|/  
+* a080147 arreglando el exe
+* af12863 ignorando a exe
+* 3c0686c este es mi primer commit
